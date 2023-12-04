@@ -32,4 +32,3 @@ parallelogram_area_value = parallelogram_area(vector1, vector2, vector3)
 triangle_area_value = triangle_area(vector1, vector2, vector3)
 
 print("Area of Parallelogram:", parallelogram_area_value)
-print("Area of Triangle:", triangle_area_value)
